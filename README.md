@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukulkandhari
-- 👀 I’m interested in SEO & Web3
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in learning about DSA
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
